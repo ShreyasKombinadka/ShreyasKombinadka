@@ -1,5 +1,7 @@
 # Hi 👋, I'm Shreyas
 
+![Electronics Banner](imagegithub.jpeg)
+
 An Electronics & Communication Engineer passionate about analog and digital electronics
 
 - 🌱 I’m currently learning **Verilog HDL**
