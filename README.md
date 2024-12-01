@@ -12,7 +12,7 @@ An Electronics & Communication Engineer passionate about analog and digital elec
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com)
 [![Discord](https://img.shields.io/badge/-Discord-blue?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/Shreyas_T555?t=MOrF8K18_Tfk5zw932iDxQ&s=08)
 
 ## Languages:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
