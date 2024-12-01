@@ -15,11 +15,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 - **Portfolio**: [Your Portfolio Link](#)
 - **LinkedIn**: [Your LinkedIn Profile](#)
