@@ -1,6 +1,6 @@
-# Hi 👋, I'm Shreyas
+<div style="background-image: url('imagegithub.jpeg'); background-size: cover; padding: 20px; color: white;">
 
-![Electronics Banner](imagegithub.jpeg)
+# Hi 👋, I'm Shreyas
 
 An Electronics & Communication Engineer passionate about analog and digital electronics
 
@@ -20,3 +20,5 @@ An Electronics & Communication Engineer passionate about analog and digital elec
 
 ## Tools:
 ![Arduino](https://img.shields.io/badge/-Arduino-green?logo=arduino&logoColor=white&style=for-the-badge)
+
+</div>
