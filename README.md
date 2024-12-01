@@ -17,8 +17,10 @@ An Electronics & Communication Engineer passionate about analog and digital elec
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=for-the-badge)
+![Octave](https://img.shields.io/badge/-Octave-orange?logo=octave&logoColor=white&style=for-the-badge)
 
 ## Tools:
 ![Arduino](https://img.shields.io/badge/-Arduino-green?logo=arduino&logoColor=white&style=for-the-badge)
+![Multisim](https://img.shields.io/badge/-Multisim-red?logo=national-instruments&logoColor=white&style=for-the-badge)
 
 </div>
