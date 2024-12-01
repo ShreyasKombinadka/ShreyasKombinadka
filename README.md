@@ -1,13 +1,11 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Shreyas! 👋
 
 ![Alt text](imagegithub.jpeg)
 Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[Your Tech/Skill]**
-- 💼 I'm working on **[Your Current Project]**
-- 🤝 I’m looking to collaborate on **[Relevant Topics]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 🌱 I’m currently learning **Electronics & Communication Engineering**
+- ⚡ Fun fact: **I enjoy working with digital and analog circuits**
 
 ---
 
