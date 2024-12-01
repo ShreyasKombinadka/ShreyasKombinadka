@@ -8,7 +8,7 @@ An Electronics & Communication Engineer passionate about analog and digital elec
 - 📫 How to reach me: [skombinadka@gmail.com](mailto:skombinadka@gmail.com)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shreyas-kombinadka-b767292a2)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com)
 [![Discord](https://img.shields.io/badge/-Discord-blue?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com)
