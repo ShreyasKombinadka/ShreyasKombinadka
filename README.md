@@ -1,13 +1,14 @@
-<div style="background-image: url('imagegithub.jpeg'); background-size: cover; padding: 20px; color: white;">
+<div style="background-image: url('imagegithub.jpeg'); background-size: cover; background-position: center; padding: 20px; color: white; font-family: Arial, sans-serif;">
 
-# Hi 👋, I'm Shreyas
+<h1>Hi 👋, I'm Shreyas</h1>
+<p>An Electronics & Communication Engineer passionate about analog and digital electronics</p>
 
-An Electronics & Communication Engineer passionate about analog and digital electronics
+<ul>
+  <li>🌱 I’m currently learning <strong>Verilog HDL</strong></li>
+  <li>📫 How to reach me: <a href="mailto:skombinadka@gmail.com" style="color: lightblue;">skombinadka@gmail.com</a></li>
+</ul>
 
-- 🌱 I’m currently learning **Verilog HDL**
-- 📫 How to reach me: [skombinadka@gmail.com](mailto:skombinadka@gmail.com)
-
-## Connect with me:
+<h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/shreyas-kombinadka-b767292a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
 </a>
@@ -24,7 +25,7 @@ An Electronics & Communication Engineer passionate about analog and digital elec
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
 </a>
 
-## Languages:
+<h2>Languages:</h2>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C">
 </a>
@@ -41,12 +42,12 @@ An Electronics & Communication Engineer passionate about analog and digital elec
     <img src="https://img.shields.io/badge/Assembly-000000?logo=codeforces&logoColor=white&style=for-the-badge" alt="Assembly">
 </a>
 
-## Tools:
+<h2>Tools:</h2>
 <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino">
 </a>
-<a href="https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Multisim-002D72?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABn0lEQVRIDbWWQbKEIAxF1wARoAEaoAEaoAEaIADKYBLKYBLKYBLKYABaMA9DZHLZTP20MrRfH98/C5sb3z2czMpnEHbAIsBZQC5QlC5FZRlm6Bwr0D/AGoAWxk1AElYS4BWEFAnoJkF7AlaEuCkDFvwn3Eu6Ca9UUocCQFXAk9HMRJiByMIGVxF6UlSGZANBZZDIKRkXjL1ElGSIbUXRF2WzJfhkEoCR4EOA2gYRpTXNQrwoHpVkjFYtCn9TmTCuhJzkt0N8kAhAYjoKULXNaAtBW+gANnZsKhmhgmwNGEvAp0mEVjNGLAflNeUg0gFBNm+4AVax3SPAMmJNMGLLCt6YPRY7AfqHkgtrBkOltwPsAY9kJLK2pRhLCvE0lBdRoHGuAtDyWAuHMiGHcGkaAHTo5WAD8FBy9CUKmF8gBdKUWjSRXJId3XEydl4hh1SeEU/hY7Sm4FGQXUIjXSmQUnBQgld4DnzGqTLKUsKbxIlNE7qxXJkrhoazXNFI0PDSWx8XKkRQiSB1FSpEHmWRqAzYjgrAHzPydy+mXBcTOmISUDe3kB6tguGmjNsScAAAAASUVORK5CYII=" alt="Multisim">
+<a href="https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank">
+    <img src="https://img.shields.io/badge/Multisim-002D72?style=for-the-badge&logo=national%20instruments&logoColor=white" alt="Multisim">
 </a>
 
 </div>
