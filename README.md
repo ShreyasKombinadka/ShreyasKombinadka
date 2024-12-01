@@ -45,8 +45,8 @@ An Electronics & Communication Engineer passionate about analog and digital elec
 <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino">
 </a>
-<a href="https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank">
-    <img src="https://img.shields.io/badge/Multisim-0071C5?logo=ni&logoColor=white&style=for-the-badge" alt="Multisim">
+<a href="https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Multisim-002D72?logo=national-instruments&logoColor=white&style=for-the-badge" alt="Multisim">
 </a>
 
 </div>
