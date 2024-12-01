@@ -46,7 +46,7 @@ An Electronics & Communication Engineer passionate about analog and digital elec
     <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino">
 </a>
 <a href="https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Multisim-002D72?logo=national-instruments&logoColor=white&style=for-the-badge" alt="Multisim">
+    <img src="https://img.shields.io/badge/Multisim-002D72?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABn0lEQVRIDbWWQbKEIAxF1wARoAEaoAEaoAEaIADKYBLKYBLKYBLKYABaMA9DZHLZTP20MrRfH98/C5sb3z2czMpnEHbAIsBZQC5QlC5FZRlm6Bwr0D/AGoAWxk1AElYS4BWEFAnoJkF7AlaEuCkDFvwn3Eu6Ca9UUocCQFXAk9HMRJiByMIGVxF6UlSGZANBZZDIKRkXjL1ElGSIbUXRF2WzJfhkEoCR4EOA2gYRpTXNQrwoHpVkjFYtCn9TmTCuhJzkt0N8kAhAYjoKULXNaAtBW+gANnZsKhmhgmwNGEvAp0mEVjNGLAflNeUg0gFBNm+4AVax3SPAMmJNMGLLCt6YPRY7AfqHkgtrBkOltwPsAY9kJLK2pRhLCvE0lBdRoHGuAtDyWAuHMiGHcGkaAHTo5WAD8FBy9CUKmF8gBdKUWjSRXJId3XEydl4hh1SeEU/hY7Sm4FGQXUIjXSmQUnBQgld4DnzGqTLKUsKbxIlNE7qxXJkrhoazXNFI0PDSWx8XKkRQiSB1FSpEHmWRqAzYjgrAHzPydy+mXBcTOmISUDe3kB6tguGmjNsScAAAAASUVORK5CYII=" alt="Multisim">
 </a>
 
 </div>
