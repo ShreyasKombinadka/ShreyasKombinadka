@@ -1,10 +1,10 @@
-![Banner](imagegithub.jpeg)
-
 # Hi 👋, I'm Shreyas
 
-**An Electronics & Communication Engineer passionate about analog and digital electronics**
+**Electronics & Communication Engineer with a strong passion for digital electronics — building everything from logic gates to full CPUs on breadboards.**
 
-- 🌱 I’m currently learning **Verilog HDL**
+- 🔧 I love designing low-level digital systems: **register files**, **ALUs**, **control units**, and **memory architectures**.
+- 🌱 Currently exploring **Verilog HDL** to bridge hardware design with simulation and synthesis.
+- 🧪 I build all logic manually — no microcontrollers or prebuilt CPUs — purely from ICs, D flip-flops, and hardwired logic.
 - 📫 Reach me at: [skombinadka@gmail.com](mailto:skombinadka@gmail.com)
 
 ---
