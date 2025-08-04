@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shreyas
 
-<img align="right" alt="Digital Electronics" width="400" src="https://raw.githubusercontent.com/techwithanirudh/Animated-Electronics-GIFs/main/breadboard-cpu.gif" />
+<img align="right" alt="Digital Electronics Retro" width="300" src="https://guillaumekurkdjian.com/wp-content/uploads/2015/04/minitel_800.gif" />
 
 **Electronics & Communication Engineer with a strong passion for digital electronics — building everything from logic gates to full CPUs on breadboards.**
 
